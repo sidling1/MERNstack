@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Good afternoon",
+      "author": "Sidling",
+      "body": "lorem ipsum dellor .....",
+      "id": 2
+    },
+    {
+      "title": "Good night",
+      "author": "Sid",
+      "body": "lorem ipsum dellor .....",
+      "id": 3
+    }
+  ]
+}
